@@ -70,10 +70,10 @@ I enjoy turning ideas into practical projects while continuously improving my sk
 ### 🛠️ Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-**Git • GitHub • VS Code • Linux • Remix • Hardhat**
+**Git • GitHub • VS Code  • Remix • Hardhat**
 
 
 ---
