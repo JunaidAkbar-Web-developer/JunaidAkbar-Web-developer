@@ -1,8 +1,8 @@
 # Hi I'm Junaid Akbar Shaikh
 
-**Frontend Web3 Engineer | Blockchain Developer | Solidity | Smart Contracts**
+**Web3 Engineer | Blockchain Developer | Solidity | Smart Contracts**
 
-Frontend Web3 Engineer with **1 year of self-employed, project-based experience** building academic and personal projects focused on **Web3, blockchain applications, decentralized applications, and smart contract development**.
+Web3 Engineer with **1 year of self-employed, project-based experience** building academic and personal projects focused on **Web3, blockchain applications, decentralized applications, and smart contract development**.
 
 I combine modern frontend technologies with **Solidity, Ethereum, and Web3 tools** to develop responsive interfaces and blockchain-powered applications.
 
@@ -10,7 +10,7 @@ I combine modern frontend technologies with **Solidity, Ethereum, and Web3 tools
 
 ## About
 
-I focus on **Frontend Web3 Development and Blockchain Technology**, with hands-on experience gained through academic, personal, and self-directed projects.
+I focus on **Web3 Development and Blockchain Technology**, with hands-on experience gained through academic, personal, and self-directed projects.
 
 My work includes **React.js and Next.js frontend development, Solidity smart contracts, dApp interfaces, wallet integration, blockchain transactions, and Web3 application development**.
 
