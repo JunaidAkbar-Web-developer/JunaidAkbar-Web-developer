@@ -125,8 +125,8 @@ Currently focusing on:
 
 ## Connect
 
-🌐 **Portfolio:** Add your portfolio URL
-💼 **LinkedIn:** Add your LinkedIn URL
+🌐 **Portfolio:** https://junaid-akbar-blockchain-developer.github.io/My-New-Portfolio/
+💼 **LinkedIn:** https://www.linkedin.com/in/junaid-akbar-shaikh-58b255382/
 📧 **Email:** Add your professional email
 🐙 **GitHub:** `JunaidAkbarWeb3`
 
