@@ -44,10 +44,10 @@ I enjoy turning ideas into practical projects while continuously improving my sk
 ### 🌐 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 </p>
 
-**HTML5 • CSS3 • JavaScript • TypeScript • React.js • Next.js • Tailwind CSS**
+**HTML5 • CSS3 • JavaScript • React.js • Next.js • Tailwind CSS**
 
 ---
 
