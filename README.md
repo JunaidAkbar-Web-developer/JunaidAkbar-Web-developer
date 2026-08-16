@@ -128,7 +128,7 @@ Currently focusing on:
 🌐 **Portfolio:** https://junaid-akbar-blockchain-developer.github.io/My-New-Portfolio/
 💼 **LinkedIn:** https://www.linkedin.com/in/junaid-akbar-shaikh-58b255382/
 📧 **Email:** Add your professional email
-🐙 **GitHub:** `JunaidAkbarWeb3`
+🐙 **GitHub:** https://github.com/Junaid-Akbar-Blockchain-Developer
 
 ---
 
